@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+.time-display {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 1rem;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.25);
+    font-family: 'Courier Prime', monospace;
+    padding-top: 10px;
+}
+
+
+
+.milsec {
+    font-size: 2.5rem;
+}
+
+.sec, .min {
+    font-size: 4rem;
+}
+

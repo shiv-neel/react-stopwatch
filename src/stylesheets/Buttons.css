@@ -1,0 +1,18 @@
+.btn {
+    font-size: 2rem;
+    border-radius: 50%;
+    border: none;
+    padding: 1rem 1.25rem;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.25);
+    margin: 4rem 1rem 0 1rem;
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+.play-pause {
+    color: rgb(80, 80, 224);
+}
+
+.stop {
+    color: rgb(252, 101, 101);
+}
